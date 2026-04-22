@@ -58,7 +58,7 @@ st.markdown("""
 st.title("🛡️ Emirates Capital Leads 2026")
 st.subheader("Stop Guessing. Start Investing.")
 
-st.markdown('<div class="success-badge">✅ Trusted by 500+ Successful & Satisfied Investors in the UAE</div>', unsafe_allow_html=True)
+st.markdown('<div class="success-badge">✅ Trusted by 500+ Satisfied Clients in the UAE</div>', unsafe_allow_html=True)
 
 st.write("""
 We bridge the gap between serious investors and world-class trading consultancies in Dubai. 
